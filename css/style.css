@@ -51,3 +51,9 @@ a {
 #link-title {
     margin-bottom: .2rem;
 }
+
+#email-hint{
+    color: red;
+    font-size: 14px;
+    opacity: .5;
+}
